@@ -24,4 +24,4 @@ Work collaboratively by adding team members and create roles within your PhoneGa
 
 ### Quicker Development Cycle
 
-Use Hydration to get faster debug and build cycles. With Hydration, updates to your application be pushed directly to your testers' previously installed apps, ensuring everyone is working on the most up-to-date version.
+Use Hydration to get faster debug and build cycles. With Hydration, updates to your application can be pushed directly to your testers' previously installed apps, ensuring everyone is working on the most up-to-date version.
